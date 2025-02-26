@@ -18,7 +18,7 @@ User-friendly interface for managing book collections
 
 Clone the repository:
 
-git clone https://github.com/your-username/library-project.git
+git clone https://github.com/TshekoO/Library-project.git
 
 ## Navigate to the project directory:
 
@@ -37,11 +37,11 @@ npm start  # For Node.js projects
 python app.py  # For Python projects
 
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 
 For any inquiries, reach out via email at tshekoogotlhe101@gmail.com or open an issue in the repository.
 
